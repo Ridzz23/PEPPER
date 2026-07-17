@@ -1,5 +1,4 @@
-# PEPPER
-Python Extension for Portable process execution and redirection 
+# PEPPER: Python Extension for Portable Process Execution and Redirection 
 
 
 ## Installing and Importing Libraries
