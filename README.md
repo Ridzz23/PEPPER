@@ -13,6 +13,13 @@ From the PEPPER root directory, install packages using:
 ./python.exe -m pip install --target build/site-packages <package-name>
 ```
 
+or to upgrade all dependencies: 
+
+```bash
+./python.exe -m pip install --target build/site-packages --upgrade <package>
+```
+
+
 For example:
 
 ```bash
